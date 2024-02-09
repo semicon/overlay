@@ -95,7 +95,7 @@
   }
   @keyframes eye-flash {
     0% {
-      background-color: #ff0;
+      background-color: #f00;
     }
     50% {
       background-color: #fff0;
