@@ -20,7 +20,6 @@
     font-size: 1.25rem;
     font-family: 'K2D', sans-serif;
     font-weight: 900;
-    transform: rotate(0deg);
   }
   #loading-spinner {
     position: absolute;
