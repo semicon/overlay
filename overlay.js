@@ -3,7 +3,7 @@
     <div id="loading-spinner">
       <div class="spinner outer">
           <div class="spinner inner">
-              <div class="spinner eye">
+              <div class="eye">
               </div>
           </div>
       </div>
