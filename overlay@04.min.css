@@ -60,7 +60,7 @@
     border: none;
     background-color: #fff0;
     background-image: url("https://semicon.github.io/img/logosm.png");
-    animation: eye-flash 2s infinite;
+    animation: eye-flash 3s infinite;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
