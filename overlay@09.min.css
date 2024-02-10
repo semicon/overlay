@@ -64,6 +64,7 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    animation: eye-spin 3s linear infinite;
   }
   @-webkit-keyframes inner-spin {
     0% {
