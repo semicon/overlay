@@ -58,7 +58,8 @@
     width: 50px;
     height: 50px;
     border: none;
-    background-color: #ff0;
+    background-color: #fff0;
+    background-image: url("https://semicon.github.io/img/logosm.png");
     animation: eye-flash 2s infinite;
   }
   @-webkit-keyframes inner-spin {
